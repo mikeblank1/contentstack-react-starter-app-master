@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'NextJSStarter'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4905165A3F8247AAB670B21A73BB6439 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26FDE64091894AF58891F38BCEB85E6D }}
           package: .
